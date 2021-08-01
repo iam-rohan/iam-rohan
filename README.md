@@ -1,7 +1,7 @@
 <h2> Hi, I'm Rohan Acharya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-Rohan-Acharya&label=Profile Views&color=blue&style=plastic" alt="im-Rohan-Acharya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-rohan&label=Profile Views&color=blue&style=plastic" alt="iam-rohan" /> </p>
 
 Hi, I'm Rohan Acharya,👨‍💻 **`Full-Stack Developer`** who is exploring Computer Security while learning about making cool and atractive web pages.😉
 
@@ -43,10 +43,10 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 ### My GitHub Status📈: 
 <br> 
 
-[![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=im-Rohan-Acharya&theme=radical)](https://github.com/saugat-rimal)
+[![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=iam-rohan&theme=radical)](https://github.com/saugat-rimal)
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-Rohan-Acharya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-Rohan-Acharya&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-rohan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rohan&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 
@@ -78,7 +78,7 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 
 <!-- 
 Want to give some Credit. Simply uncomment the next line
-Github profile Readme inspired by  [@sim-Rohan-Acharya](https://github.com/im-Rohan-Acharya)
+Github profile Readme inspired by  [@siam-rohan](https://github.com/iam-rohan)
 
 
 A shoutout to my friend <a src="https://github.com/saugat-rimal">Saugat Rimal</a>,
