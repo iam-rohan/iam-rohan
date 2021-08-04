@@ -7,7 +7,7 @@ Hi, I'm Rohan Acharya,👨‍💻 **`Full-Stack Developer`** who is exploring Co
 
 Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upwork(Rohan Acharya)</a> as a Web Developer.
 
-🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Creative Writer`** and a **`Creative Designer`** who believes that the merge between Creativity and Digital Technology always creat something beautiful and exciting for everyone.
+🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Creative Writer`** and a **`Creative Designer`** who believes that the merge between Creativity and Digital Technology always create something beautiful and exciting for everyone.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
  
@@ -18,7 +18,7 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 - 👯 I’m looking to collaborate on making great **digital experience🧑‍🤝‍🧑**.
 - 🤔 I’m looking for help with my **Cyber Security learnings**.
 - 💬 Ask me about anything realted to my projects and other stuffs too I am more than happy😁 to help👯 as per my ability. 
-- ⚡ Fun Fact: Want to make digital experiences than **entertainment🕺 and challenges🔥 me, at the same time pays the bills💰**. 
+- ⚡ Fun Fact: Want to make digital experiences that **entertains🕺 and challenges🔥 me, at the same time pays the bills💰**. 
 - ☕ 👇 **This is just the beginning. There are more to come from me.**😄
 
 <br>
