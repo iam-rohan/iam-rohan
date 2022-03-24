@@ -9,7 +9,7 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Creative Writer`** and a **`Creative Designer`** who believes that the merge between Creativity and Digital Technology always create something beautiful and exciting for everyone.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+<img align="right" alt="GIF" width="480" height="360" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true"/>
  
  ### A little more info to process about me... 
 
@@ -43,10 +43,10 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 ### My GitHub Status📈: 
 <br> 
 
-[![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=iam-rohan&theme=radical)](https://github.com/saugat-rimal)
+[![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=iam-rohan&theme=dark)](https://github.com/iam-rohan)
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-rohan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rohan&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-rohan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rohan&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </p>
 
 
