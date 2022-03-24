@@ -46,7 +46,7 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 [![GitHub stats]( https://github-readme-streak-stats.herokuapp.com/?user=iam-rohan&theme=radical)](https://github.com/saugat-rimal)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-rohan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rohan&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rohan&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"/>
 </p>
 
 
