@@ -59,7 +59,7 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 <div align="center">
 ### You can find in me in the web 🌍
 
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rohan___acharya/)
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_rohanacharya/)
 [![Linkedin: rohanacharya](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanacharya/)](https://www.linkedin.com/in/rohan-acharya-467282186/)
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohanacharya42@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-2962ff?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/rohanacharya.pro/)](https://www.facebook.com/rohan.acharya.520)
