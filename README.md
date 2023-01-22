@@ -14,9 +14,9 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
  ### A little more info to process about me... 
 
 - 🔭 I have been exploring🔭 the world of computers💻.
-- 🌱 I’m currently learning **Web Development💻** & **Cyber Security🔐**.
+- 🌱 I’m currently learning **Web Development💻**.
 - 👯 I’m looking to collaborate on making great **digital experience🧑‍🤝‍🧑**.
-- 🤔 I’m looking for help with my **Cyber Security learnings**.
+- 🤔 I’m looking for help with my **Web Development Learning**.
 - 💬 Ask me about anything realted to my projects and other stuffs too I am more than happy😁 to help👯 as per my ability. 
 - ⚡ Fun Fact: Want to make digital experiences that **entertains🕺 and challenges🔥 me, at the same time pays the bills💰**. 
 - ☕ 👇 **This is just the beginning. There are more to come from me.**😄
@@ -32,7 +32,6 @@ Working 💼 <a src="https://www.upwork.com/freelancers/~0182a20267d537d9e6">Upw
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Typescript&logoColor=5df58b)
 ![C & C++](https://img.shields.io/badge/-C%20&%20C++-black?style=for-the-badge&logo=C%20&%20C++)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)    
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
